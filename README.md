@@ -7,6 +7,8 @@ An automated pipeline that transforms video content into platform-ready social m
 * **Brain:** Gemini 2.0 Flash (Social Media Copy Generation)
 * **Database:** Zapier Tables (Structured Content Management)
 * **Distribution:** LinkedIn & Facebook APIs
+## 🏗️ System Architecture
+![System Architecture](./assets/Content-Engine-Architecture-Diagram.png)
 
 ## 📋 Project Overview
 I built this system to solve the time-consuming process of manual content repurposing. This automation takes a raw video file and automatically generates high-quality, formatted drafts for LinkedIn and Facebook, storing them in a centralized content management table.
